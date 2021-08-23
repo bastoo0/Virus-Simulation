@@ -2,7 +2,7 @@
 Visual simulation of virus propagation with vaccine and other parameters, in the ugliest, least optimized way (using p5.js) !
 You can launch a virus infection and play with different parameters to see how it affects its spreading.
 
-The website is not made for mobiles, though you could use it in landscape mode.
+The website is not made for mobiles, though you could use it with the "desktop mode" of your mobile browser.
 
 # How does it work
 You have a bunch of circles, each circle represents one person. To start the simulation, simply click on a circle to infect if (you can click on multiple circles).
